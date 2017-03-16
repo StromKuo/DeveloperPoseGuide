@@ -12,5 +12,5 @@
 - [敏捷软件开发（Agile software development）](https://zh.wikipedia.org/wiki/%E6%95%8F%E6%8D%B7%E8%BD%AF%E4%BB%B6%E5%BC%80%E5%8F%91)
 - [里氏替换原则（Liskov substitution principle）](https://zh.wikipedia.org/wiki/%E9%87%8C%E6%B0%8F%E6%9B%BF%E6%8D%A2%E5%8E%9F%E5%88%99)
 - [结对编程（Pair programming）](https://zh.wikipedia.org/wiki/%E7%BB%93%E5%AF%B9%E7%BC%96%E7%A8%8B)
-- [基于原型的编程(Prototype-based programming)]（https://zh.wikipedia.org/wiki/%E5%8E%9F%E5%9E%8B%E7%A8%8B%E5%BC%8F%E8%A8%AD%E8%A8%88）
+- [基于原型的编程(Prototype-based programming)] (https://zh.wikipedia.org/wiki/%E5%8E%9F%E5%9E%8B%E7%A8%8B%E5%BC%8F%E8%A8%AD%E8%A8%88)
 - [一次且仅一次（Once and only once） / 不要重复你自己（Don't repeat yourself） / 一个规则，实现一次（One rule, one place）](https://zh.wikipedia.org/wiki/%E4%B8%80%E6%AC%A1%E4%B8%94%E4%BB%85%E4%B8%80%E6%AC%A1)
